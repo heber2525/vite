@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+section {
+  width: 250px;
+  padding: 10px;
+  border: 1px dashed #999;
+}
+.color {
+  border: 1px solid black;
+  height: 248px;
+}
+input {
+  display: block;
+  width: 100%;
+  margin-top: 10px;
+}
